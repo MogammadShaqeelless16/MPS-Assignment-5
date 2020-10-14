@@ -91,10 +91,11 @@ namespace Hangman_Console_App
                 else { 
                     Console.WriteLine("Wrong!");
                     if (x == 1)
-                        Console.WriteLine("\nYou lost! Never give up! The answer : {0}.\nTRY AGAIN!", word);
+                        Console.WriteLine("\nYou lost! Game Over! The answer : {0}.\nTRY AGAIN!", word);
                         --x;
                 }
                 Console.WriteLine("\n\t{0}", wordline);
+
 
 
             }

@@ -1,0 +1,14 @@
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\bin\Debug\MetroFramework.dll
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.GameForm.resources
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.MainForm.resources
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.csproj.CopyComplete
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman\Hangman\obj\Debug\Hangman.pdb
