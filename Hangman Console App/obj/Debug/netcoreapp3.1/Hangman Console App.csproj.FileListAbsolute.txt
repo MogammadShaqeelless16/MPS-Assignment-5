@@ -1,0 +1,13 @@
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.csprojAssemblyReference.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.AssemblyInfoInputs.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.AssemblyInfo.cs
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.csproj.CoreCompileInputs.cache
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.exe
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.deps.json
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.runtimeconfig.json
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.runtimeconfig.dev.json
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.dll
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\bin\Debug\netcoreapp3.1\Hangman Console App.pdb
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.dll
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.pdb
+C:\Users\Shaqeel\Desktop\assignment for allan\hangman Version 1\Hangman Console App\obj\Debug\netcoreapp3.1\Hangman Console App.genruntimeconfig.cache
